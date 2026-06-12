@@ -1,0 +1,39 @@
+
+    /*Header*/
+      h1 {text-align: center;
+          font-size: 39px;
+          font-weight: bold;
+          text-decoration: underline;
+          color: rgb(5, 71, 5);
+      }
+    /* Introduction*/
+      h2 {text-align: center;
+          font-size: 22px;
+          font-weight: bold;
+          text-decoration: wavy;
+          color: rgba(5, 71, 5);
+      }
+
+    /* About Me*/
+      h3 {text-align: center;
+          font-size: 22px;
+          font-weight: bold;
+          text-decoration: wavy;
+          color: rgba(5, 72, 5);
+      }
+
+      /* Offerings*/
+      h4 {text-align: center;
+          font-size: 22px;
+          font-weight: bold;
+          text-decoration: wavy;
+          color: rgba(5, 72, 5);
+      }
+
+        /* Contact Me*/
+      h5 {text-align: center;
+          font-size: 22px;
+          font-weight: bold;
+          text-decoration: wavy;
+          color: rgba(5, 72, 5);
+      }
