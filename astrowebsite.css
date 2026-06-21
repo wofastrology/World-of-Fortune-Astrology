@@ -3,37 +3,127 @@
       h1 {text-align: center;
           font-size: 39px;
           font-weight: bold;
-          text-decoration: underline;
-          color: rgb(5, 71, 5);
+          text-decoration:solid;
+          color:goldenrod;
       }
+   /* Navbar*/ 
+      .navbar{text-align: center;
+          font-size: 21px;
+          font-weight: bold;
+          text-decoration: underline;
+          color: rgba(5, 72, 5);}
+   /* Navbar*/
+      .navbar ul{
+        list-style-type: none;
+        background-color:rgba(5, 72, 5);
+        padding: 0px;
+        margin: 0px;
+        overflow: hidden;
+      }
+   /* Navbar*/   
+      .navbar a{
+        color:goldenrod;
+        text-decoration: none;
+        padding: 15px;
+        display: block;
+        text-align: center;
+      }
+   /* Navbar*/
+      .navbar a.hover{
+        background-color: rgba(0, 0, 0, 0.557);
+      }
+  /* Navbar*/
+      .navbar li{
+        float: left;
+      }
+
     /* Introduction*/
       h2 {text-align: center;
           font-size: 22px;
           font-weight: bold;
           text-decoration: wavy;
-          color: rgba(5, 71, 5);
+          color: goldenrod;
+      }
+
+    /* Opening Quote*/
+      h6 {text-align: center;
+          font-size: 22px;
+          font-weight: bold;
+          text-decoration:solid;
+          color: goldenrod;
       }
 
     /* About Me*/
       h3 {text-align: center;
           font-size: 22px;
           font-weight: bold;
-          text-decoration: wavy;
-          color: rgba(5, 72, 5);
+          text-decoration: underline;
+          color: goldenrod;
       }
+
+    /* About Me Information*/
+      p1 {text-align: center;
+          font-size: 16px;
+          font-weight: bold;
+          text-decoration: wavy;
+          text-indent: 2em;
+          margin-left: 12px;
+          color:goldenrod;}
 
       /* Offerings*/
       h4 {text-align: center;
           font-size: 22px;
           font-weight: bold;
-          text-decoration: wavy;
-          color: rgba(5, 72, 5);
+          text-decoration: underline;
+          color: goldenrod;
       }
+
+      /* Natal Chart Reading Information*/
+      #natalreading {text-align: left;
+          font-size: 16px;
+          font-weight: bold;
+          text-decoration: wavy;
+          text-indent: none;
+          margin-left: none;
+          color:goldenrod;}
 
         /* Contact Me*/
       h5 {text-align: center;
           font-size: 22px;
           font-weight: bold;
-          text-decoration: wavy;
-          color: rgba(5, 72, 5);
+          text-decoration: underline;
+          color: goldenrod;
       }
+
+      /* Contact Me Information*/
+      #contact{text-align: center;
+          font-size: 17px;
+          font-weight: bold;
+          text-decoration: wavy;
+          color:goldenrod;}
+
+
+        /* Book a Reading*/
+        a{text-align: center;
+          font-size: 16px;
+          font-weight: bold;
+          text-decoration: underline;
+          color:goldenrod;
+        }
+
+      /* Luminas Earth Image*/
+      #universe{width: 606px;
+          height: auto;
+          display: block;
+          margin: 0 auto;
+      }
+
+       /* Work Headshot*/
+      #headshot{width: 408px;
+          height: auto;
+          display: block;
+          margin: 0 auto;
+          margin-bottom: 20px; /*Space between image and paragraph*/
+      }
+
+      
