@@ -1,0 +1,170 @@
+
+    /*Header*/
+      h1 {text-align: center;
+          font-size: 39px;
+          font-weight: bold;
+          text-decoration:solid;
+          color:goldenrod;
+      }
+   /* Navbar*/ 
+      .navbar{text-align: center;
+          font-size: 21px;
+          font-weight: bold;
+          text-decoration: underline;
+          color: rgba(5, 72, 5);}
+   /* Navbar*/
+      .navbar ul{
+        list-style-type: none;
+        background-color:rgba(5, 72, 5);
+        padding: 0px;
+        margin: 0px;
+        overflow: hidden;
+      }
+   /* Navbar*/   
+      .navbar a{
+        color:goldenrod;
+        text-decoration: none;
+        padding: 15px;
+        display: block;
+        text-align: center;
+      }
+   /* Navbar*/
+      .navbar a.hover{
+        background-color: rgba(0, 0, 0, 0.557);
+      }
+  /* Navbar*/
+      .navbar li{
+        float: left;
+      }
+
+    /* Introduction*/
+      h2 {text-align: center;
+          font-size: 30px;
+          font-weight: bold;
+          text-decoration: wavy;
+          color: goldenrod;
+      }
+
+    /* Opening Quote*/
+      h6 {text-align: center;
+          font-size: 22px;
+          font-weight: bold;
+          text-decoration:solid;
+          color: goldenrod;
+      }
+
+    /* About*/
+      h3 {text-align: center;
+          font-size: 33px;
+          font-weight: bold;
+          text-decoration: underline;
+          color: goldenrod;
+      }
+
+    /* About Information*/
+      p1 {text-align: center;
+          font-size: 21px;
+          font-weight: none;
+          text-decoration: wavy;
+          text-indent: 2em;
+          margin-left: 12px;
+          color:goldenrod;}
+
+      /* Offerings*/
+      h4 {text-align: center;
+          font-size: 33px;
+          font-weight: bold;
+          text-decoration: underline;
+          color: goldenrod;
+      }
+
+      /* Natal Chart Reading Information*/
+      #natalreading {text-align: left;
+          font-size: 21px;
+          font-weight: none;
+          text-decoration: wavy;
+          text-indent: none;
+          margin-left: none;
+          color:goldenrod;}
+
+           /* Book a Reading*/
+  #booking{text-align:center;
+          font-size: 21px;
+          font-weight: bold;
+          text-decoration: underline;
+          color:goldenrod;
+          background-color: rgba(5, 72, 5);
+        }
+
+        /* Contact */
+      h5 {text-align: center;
+          font-size: 33px;
+          font-weight: bold;
+          text-decoration: underline;
+          color: goldenrod;
+      }
+
+      /* Contact Information*/
+      #contact{text-align: center;
+          font-size: 30px;
+          font-weight: bold;
+          text-decoration: wavy;
+          color:goldenrod;}
+
+
+
+        /* Media */
+    #media{text-align: center;
+          font-size: 33px;
+          font-weight: bold;
+          text-decoration: underline;
+          color: goldenrod;
+      }
+       /* Astro Praxi5 */
+  #praxi5{text-align: center;
+          font-size: 21px;
+          font-weight: bold;
+          text-decoration: underline;
+          color: goldenrod;
+          background-color: rgba(5, 72, 5);
+      }
+
+        /* Aron Visual Mountain*/
+      #aronvisualsmountain{width: 606px;
+          height: auto;
+          display: block;
+          margin: 0 auto;
+      }
+
+      
+      /* New York Astrology*/
+      #newyorkastrology{width: 444px;
+          height: auto;
+          display: block;
+          margin: 0 auto;
+          margin-bottom: 20px; /*Space between image and paragraph*/
+      }
+
+
+       /* Work Headshot*/
+      #headshot{width: 408px;
+          height: auto;
+          display: block;
+          margin: 0 auto;
+          margin-bottom: 20px; /*Space between image and paragraph*/
+      }
+
+      /* Luminas Earth Image*/
+      #universe{width: 606px;
+          height: auto;
+          display: block;
+          margin: 0 auto;
+      }
+
+      /* János Venczák Vintage Lens*/
+      #vintagelens{width: 606px;
+          height: auto;
+          display: block;
+          margin: 0 auto;
+          margin-bottom: 84px; /*Space between image and paragraph*/
+      }
